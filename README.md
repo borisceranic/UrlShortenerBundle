@@ -9,7 +9,7 @@ MremiUrlShortenerBundle
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mremi/UrlShortenerBundle/badges/quality-score.png?s=a9e232e7ec75d70c038950b2f1aa72b313a31271)](https://scrutinizer-ci.com/g/mremi/UrlShortenerBundle/)
 [![Code Coverage](https://scrutinizer-ci.com/g/mremi/UrlShortenerBundle/badges/coverage.png?s=ddfb206093586a764b3fc9459a0cde20c108e547)](https://scrutinizer-ci.com/g/mremi/UrlShortenerBundle/)
 
-This bundle implements the [UrlShortener](https://github.com/mremi/UrlShortener) library for Symfony2.
+This bundle implements the [UrlShortener](https://github.com/mremi/UrlShortener) library for Symfony2+.
 
 ## License
 
@@ -17,7 +17,7 @@ This bundle is available under the [MIT license](Resources/meta/LICENSE).
 
 ## Prerequisites
 
-This version of the bundle requires Symfony 2.1+.
+This version of the bundle requires Symfony 2.6+.
 
 **Basic Docs**
 
